@@ -1,9 +1,9 @@
-module github.com/filecoin-project/go-address
+module github.com/chenjianmei111/go-address
 
 go 1.13
 
 require (
-	github.com/filecoin-project/go-crypto v0.0.0-20191218222705-effae4ea9f03
+	github.com/chenjianmei111/go-crypto v0.0.0-20191218222705-effae4ea9f03
 	github.com/ipfs/go-ipld-cbor v0.0.3
 	github.com/minio/blake2b-simd v0.0.0-20160723061019-3f5f724cb5b1
 	github.com/multiformats/go-varint v0.0.2
