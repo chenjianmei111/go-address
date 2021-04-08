@@ -8,7 +8,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/filecoin-project/go-address"
+	"github.com/chenjianmei111/go-address"
 
 	"golang.org/x/xerrors"
 )

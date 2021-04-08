@@ -13,7 +13,7 @@ import (
 	"github.com/multiformats/go-varint"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/filecoin-project/go-crypto"
+	"github.com/chenjianmei111/go-crypto"
 	cbg "github.com/whyrusleeping/cbor-gen"
 )
 
